@@ -68,7 +68,7 @@ function renderJobs() {
       <p>${escapeHtml(job.description)}</p>
       <div class="job-bottom">
         <span class="job-details">${escapeHtml(job.location)} · ${escapeHtml(job.experience)}</span>
-        <a class="apply-link" href="${escapeHtml(job.applyLink)}" target="_blank" rel="noopener">Apply Now ↗</a>
+       <a class="apply-link" href="https://docs.google.com/forms/d/e/1FAIpQLSdZ3f22hs84XRWderuJMUQfsisXChaLCKeURQnR8aog3wiEIA/viewform?usp=pp_url&amp;entry.797960200=${encodeURIComponent(job.title)}" target="_blank" rel="noopener">Apply Now ↗</a>
       </div>
     </article>
   `).join("");
