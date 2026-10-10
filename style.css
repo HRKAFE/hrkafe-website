@@ -65,7 +65,7 @@ img { max-width: 100%; display: block; }
 .brand-steam::after { left: 16px; top: -1px; }
 .brand-copy { display: grid; line-height: 1; }
 .brand-copy strong { font-size: 18px; letter-spacing: .08em; }
-.brand-copy small { margin-top: 5px; color: var(--muted); font-size: 8px; letter-spacing: .04em; }
+.brand-copy small { margin-top: 5px; color: var(--muted); font-size: 13px; letter-spacing: .02em; line-height: 1.4; }
 .main-nav { display: flex; align-items: center; gap: 25px; font-size: 13px; font-weight: 650; }
 .main-nav a { color: #4f5853; position: relative; padding: 27px 0; }
 .main-nav a::after { content: ""; position: absolute; left: 0; bottom: 20px; width: 0; height: 2px; background: var(--accent); transition: width .2s; }
