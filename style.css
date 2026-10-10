@@ -295,3 +295,11 @@ details p { color: var(--muted); font-size: 13px; margin: 12px 0 0; max-width: 6
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
   .reveal { opacity: 1; transform: none; }
 }
+/* HRKAFE logo in header and footer */
+.brand-logo {
+  display: block;
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
