@@ -298,8 +298,8 @@ details p { color: var(--muted); font-size: 13px; margin: 12px 0 0; max-width: 6
 /* HRKAFE logo in header and footer */
 .brand-logo {
   display: block;
-  width: 44px;
-  height: 44px;
+  width: 52px;
+  height: 52px;
   object-fit: contain;
   flex-shrink: 0;
 }
