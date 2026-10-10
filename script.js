@@ -7,24 +7,14 @@
 */
 
 const jobs = [
-  /*
-  COPY THIS TEMPLATE WHEN YOU HAVE A REAL JOB OPENING:
-
-  {
-    title: "Your real job title",
-    industry: "Your industry",
-    location: "Mumbai, Maharashtra",
-    experience: "3–6 years",
+      {
+    title: "Hospitality Head – Guest Relations",
+    industry: "Events and Wedding Industry",
+    location: "Lower Parel",
+    experience: "5+ Years (min. 2 in leadership)",
     type: "Full Time",
-    description: "A short, factual description of the role.",
-    applyLink: "YOUR_GOOGLE_FORM_OR_APPLICATION_LINK"
+    description: "Lead guest relations and hospitality operations at events, ensuring a seamless experience for VIPs, stakeholders, and attendees. Responsibilities include managing VIP guests and the overall guest experience; leading the hospitality team and overseeing event operations; coordinating accommodation, transport, and vendor services; handling guest concerns and on-site requirements; and managing budgets and post-event reporting."
   },
-
-  IMPORTANT:
-  Only add real/current openings here. Do not publish confidential client details.
-  */
-
-  // HRKAFE currently has no live openings entered here.
 ];
 
 const jobList = document.getElementById("job-list");
