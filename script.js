@@ -46,7 +46,7 @@ const jobs = [
     experience: "8–10 years",
     type: "Full Time",
     description: "Lead sponsorship strategy and sales from prospecting to deal closure. Develop sponsor pipelines, create sponsorship packages, negotiate high-value deals, build brand partnerships, achieve revenue targets, and oversee sponsor servicing and ROI reporting."
-  }
+  },
   {
     title: "PET Trader",
     industry: "Plastic Recycling and Trading",
