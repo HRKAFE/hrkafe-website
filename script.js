@@ -7,14 +7,46 @@
 */
 
 const jobs = [
-      {
+     {
     title: "Hospitality Head – Guest Relations",
     industry: "Events and Wedding Industry",
     location: "Lower Parel",
     experience: "5+ Years (min. 2 in leadership)",
     type: "Full Time",
-    description: "Lead guest relations and hospitality operations at events, ensuring a seamless experience for VIPs, stakeholders, and attendees. Responsibilities include managing VIP guests and the overall guest experience; leading the hospitality team and overseeing event operations; coordinating accommodation, transport, and vendor services; handling guest concerns and on-site requirements; and managing budgets and post-event reporting."
+    description: "Lead guest relations and hospitality operations at events. Manage VIP guests, lead the hospitality team, coordinate accommodation, transport and vendors, resolve on-site concerns, and oversee budgets and post-event reporting."
   },
+  {
+    title: "Business Development Manager",
+    industry: "Events and Wedding Industry",
+    location: "Lower Parel",
+    experience: "8–10 years",
+    type: "Full Time",
+    description: "Drive business growth through lead generation, client acquisition, pitching, negotiations and deal closure. Build sales pipelines, develop strategic partnerships, achieve revenue targets, and manage client relationships."
+  },
+  {
+    title: "Project Executive / Client Service Executive",
+    industry: "Events and Wedding Industry",
+    location: "Lower Parel",
+    experience: "1–3 years",
+    type: "Full Time",
+    description: "Support event planning and execution, coordinate timelines and internal teams, communicate with clients, manage vendors, assist with on-site operations, and maintain project records and post-event reports."
+  },
+  {
+    title: "RSVP Coordinator",
+    industry: "Events and Wedding Industry",
+    location: "Lower Parel",
+    experience: "2+ years",
+    type: "Full Time",
+    description: "Manage guest communications and invitations, track RSVPs and attendance, maintain guest databases, coordinate special requests with event and hospitality teams, resolve guest concerns, and prepare attendance reports."
+  },
+  {
+    title: "Sponsorship Sales Head",
+    industry: "Events, Weddings, Entertainment and Concerts",
+    location: "Lower Parel",
+    experience: "8–10 years",
+    type: "Full Time",
+    description: "Lead sponsorship strategy and sales from prospecting to deal closure. Develop sponsor pipelines, create sponsorship packages, negotiate high-value deals, build brand partnerships, achieve revenue targets, and oversee sponsor servicing and ROI reporting."
+  }
 ];
 
 const jobList = document.getElementById("job-list");
