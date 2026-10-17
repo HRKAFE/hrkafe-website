@@ -47,6 +47,30 @@ const jobs = [
     type: "Full Time",
     description: "Lead sponsorship strategy and sales from prospecting to deal closure. Develop sponsor pipelines, create sponsorship packages, negotiate high-value deals, build brand partnerships, achieve revenue targets, and oversee sponsor servicing and ROI reporting."
   }
+  {
+    title: "PET Trader",
+    industry: "Plastic Recycling and Trading",
+    location: "Lower Parel",
+    experience: "3–7 years",
+    type: "Full Time",
+    description: "Manage end-to-end buying and selling of PET scrap, flakes, and recycled PET materials. Develop supplier and buyer networks, negotiate pricing and payment terms, track market rates, coordinate quality inspections and dispatches, and maintain trading records and payment follow-ups."
+  },
+  {
+    title: "LDPE Procurement Executive",
+    industry: "Recycling, Plastic Scrap and Polymer Trading",
+    location: "Lower Parel",
+    experience: "3–6 years",
+    type: "Full Time",
+    description: "Source LDPE scrap and recyclable plastic materials from vendors, scrap dealers, aggregators, and industries. Build supplier relationships, negotiate prices and payment terms, identify sourcing opportunities, coordinate logistics and plant teams, monitor scrap pricing, and ensure material quality."
+  },
+  {
+    title: "Sales Manager – Recycled Plastic Granules",
+    industry: "Plastic Recycling",
+    location: "Lower Parel",
+    experience: "5–8+ years",
+    type: "Full Time",
+    description: "Drive sales of recycled plastic granules through B2B and B2C business development. Build relationships with industrial buyers, converters, and manufacturing units, generate leads, achieve sales targets, monitor market pricing, coordinate production and logistics, and manage customer accounts."
+  },
 ];
 
 const jobList = document.getElementById("job-list");
